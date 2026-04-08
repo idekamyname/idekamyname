@@ -5,6 +5,11 @@
 </div>
 
 
+<div align="center">
+<img src="![Image](https://github.com/user-attachments/assets/af5c9ada-f673-455f-93b2-6e87477b8f31)" width="300px" />
+</div>
+
+
 <h3 align="left">My Stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -26,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
   <img width="8" />
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
   ##
  <h3 align="left">Connect with me!</h3>
