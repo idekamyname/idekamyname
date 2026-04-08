@@ -4,9 +4,9 @@
     </a>
 </div>
 
-
-<div align="center">
-<img src="![Image](https://github.com/user-attachments/assets/af5c9ada-f673-455f-93b2-6e87477b8f31)" width="300px" />
+<!--![Image](https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9)!-->
+<div align="right">
+<img src="https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9" width="300px" />
 </div>
 
 
