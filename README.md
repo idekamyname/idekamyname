@@ -4,11 +4,6 @@
     </a>
 </div>
 
-<!--![Image](https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9)!-->
-<div align="right">
-<img src="https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9" width="300px" />
-</div>
-
 
 <h3 align="left">My Stack</h3>
 <div align="left">
@@ -31,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
   <img width="8" />
 
+<!--![Image](https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9)!-->
+<div align="right">
+<img src="https://github.com/user-attachments/assets/a7c314f9-5e39-42c0-a32b-d023683fe2b9" width="200px" />
+</div>
 
   ##
  <h3 align="left">Connect with me!</h3>
